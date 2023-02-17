@@ -1,0 +1,7 @@
+simplejson
+pyrr
+opencv-python
+trimesh
+meshcat
+transforms3d
+numpy
